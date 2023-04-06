@@ -6,6 +6,6 @@ layout: default
 # First heading of the page
 
 Click here to open sample link - 
-[An Internal Link](/sample-link1)
+[An Internal Link](sample-link1.md)
 
 ## Second heading of the page
